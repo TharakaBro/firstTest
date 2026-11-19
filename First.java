@@ -7,6 +7,12 @@ int x=1;
 int y=100;
 
 int z=x+y;
+int b=2;
+for(int i=0;i<19;i++)
+{
+b++;
+System.out.println(b);
+}
 
 System.out.println(z);
 }
